@@ -1,0 +1,1 @@
+[17-Nov-2017 13:35:29 Europe/Athens] PHP Fatal error:  Call to undefined method Symfony\Component\HttpKernel\Event\PostResponseEvent::setDispatcher() in /home/devtrong/public_html/sites/felix-fletcher.com/core/lib/Drupal/Component/EventDispatcher/ContainerAwareEventDispatcher.php on line 94
